@@ -1,1 +1,1 @@
-![Reductor_buck](Imag.PNG)
+![Reductor_buck](imag.PNG)
