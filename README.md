@@ -1,1 +1,1 @@
-![Reductor_buck](Imag.JPG)
+![Reductor_buck](Imag.PNG)
